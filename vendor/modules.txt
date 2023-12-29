@@ -6,7 +6,7 @@ github.com/mattn/go-colorable
 github.com/mattn/go-isatty
 # github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
 github.com/mgutz/ansi
-# github.com/nyl1001/pkg v1.0.2
+# github.com/nyl1001/pkg v1.0.3
 github.com/nyl1001/pkg/errors
 github.com/nyl1001/pkg/gotypes
 github.com/nyl1001/pkg/jsonutils
