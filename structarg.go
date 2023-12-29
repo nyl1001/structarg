@@ -30,6 +30,7 @@ import (
 	"github.com/nyl1001/pkg/jsonutils"
 	"github.com/nyl1001/pkg/util/reflectutils"
 	"github.com/nyl1001/pkg/utils"
+	"yunion.io/x/log"
 )
 
 type BaseOptions struct {
