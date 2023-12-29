@@ -1,0 +1,37 @@
+# github.com/ghodss/yaml v1.0.0
+github.com/ghodss/yaml
+# github.com/mattn/go-colorable v0.1.13
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.20
+github.com/mattn/go-isatty
+# github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
+github.com/mgutz/ansi
+# github.com/nyl1001/pkg v1.0.2
+github.com/nyl1001/pkg/errors
+github.com/nyl1001/pkg/gotypes
+github.com/nyl1001/pkg/jsonutils
+github.com/nyl1001/pkg/sortedmap
+github.com/nyl1001/pkg/tristate
+github.com/nyl1001/pkg/util/reflectutils
+github.com/nyl1001/pkg/util/regutils
+github.com/nyl1001/pkg/util/timeutils
+github.com/nyl1001/pkg/utils
+# github.com/pkg/errors v0.9.1
+github.com/pkg/errors
+# github.com/sirupsen/logrus v1.9.3
+github.com/sirupsen/logrus
+# github.com/texttheater/golang-levenshtein v0.0.0-20180516184445-d188e65d659e
+github.com/texttheater/golang-levenshtein/levenshtein
+# golang.org/x/crypto v0.17.0
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/sys v0.15.0
+golang.org/x/sys/plan9
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/term v0.15.0
+golang.org/x/term
+# gopkg.in/yaml.v2 v2.4.0
+gopkg.in/yaml.v2
+# yunion.io/x/log v1.0.1-0.20230411060016-feb3f46ab361
+yunion.io/x/log
+yunion.io/x/log/hooks

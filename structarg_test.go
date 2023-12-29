@@ -20,7 +20,7 @@ import (
 	"strings"
 	"testing"
 
-	"yunion.io/x/jsonutils"
+	"github.com/nyl1001/pkg/jsonutils"
 )
 
 func newParser(d interface{}) (*ArgumentParser, error) {
