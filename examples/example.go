@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"os"
 
-	"yunion.io/x/structarg"
+	"github.com/nyl1001/structarg"
 )
 
 // define default arguments

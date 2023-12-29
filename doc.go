@@ -12,4 +12,4 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package structarg // import "yunion.io/x/structarg"
+package structarg // import "github.com/nyl1001/structarg"

@@ -7,7 +7,7 @@ jobs:
     docker:
       - image: circleci/golang:1.16
 
-    working_directory: /go/src/yunion.io/x/structarg
+    working_directory: /go/src/github.com/nyl1001/structarg
     steps:
       - checkout
       - run: GO111MODULE=off go get -v -t -d ./...
